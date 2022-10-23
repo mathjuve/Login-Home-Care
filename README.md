@@ -11,10 +11,6 @@ Este projeto trata-se de um desafio técnico para um processo seletivo, feito to
 
 <br>
 
-## 👨‍💻Link para acesso: 
-<a href="https://app-organizer-list.netlify.app/" target="_blank">Aperte aqui ⬅ </a>
-
-
 ## ☕ tecnologias utilizadas
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -29,7 +25,7 @@ Este projeto trata-se de um desafio técnico para um processo seletivo, feito to
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./src/assets/Autor.png" width="100px;" alt="Foto do Matheus Juvenal no GitHub"/><br>
+        <img src="./src/assets/autor.png" width="100px;" alt="Foto do Matheus Juvenal no GitHub"/><br>
         <sub>
           <a >Matheus Juvenal</a>
         </sub>
